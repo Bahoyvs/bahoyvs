@@ -88,6 +88,11 @@ A production news platform that ingests Turkish news feeds and enriches them wit
 
 ---
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+---
+
 <p align="center">
   <sub>Open to Game Developer (Unity / Unreal) and Backend / Full-Stack Engineering roles.</sub>
 </p>
