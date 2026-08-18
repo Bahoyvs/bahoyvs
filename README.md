@@ -89,6 +89,87 @@ A production news platform that ingests Turkish news feeds and enriches them wit
 ---
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-12.86%20million%20lines%20of%20code-blue?style=flat)
+
+**🐱 My GitHub Data** 
+
+> 📦 97.9 kB Used in GitHub's Storage 
+ > 
+> 🏆 354 Contributions in the Year 2026
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 9 Public Repositories 
+ > 
+> 🔑 10 Private Repositories 
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                267 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
+🌆 Daytime                1943 commits        █████░░░░░░░░░░░░░░░░░░░░   20.82 % 
+🌃 Evening                4764 commits        █████████████░░░░░░░░░░░░   51.05 % 
+🌙 Night                  2358 commits        ██████░░░░░░░░░░░░░░░░░░░   25.27 % 
+```
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday                   884 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.47 % 
+Tuesday                  1647 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.65 % 
+Wednesday                1186 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.71 % 
+Thursday                 827 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.86 % 
+Friday                   1146 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.28 % 
+Saturday                 2719 commits        ███████░░░░░░░░░░░░░░░░░░   29.14 % 
+Sunday                   923 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.89 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Istanbul
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
+```
+
+**I Mostly Code in TypeScript** 
+
+```text
+TypeScript               9 repos             ███████░░░░░░░░░░░░░░░░░░   29.03 % 
+JavaScript               4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.90 % 
+C#                       4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.90 % 
+ShaderLab                3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.68 % 
+HTML                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.45 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/Bahoyvs/Bahoyvs/main/assets/bar_graph.png)
+
+
+ Last Updated on 18/08/2026 19:22:54 UTC
 <!--END_SECTION:waka-->
 
 ---
